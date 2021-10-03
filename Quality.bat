@@ -1,0 +1,1 @@
+echo "Quality of project : %date% : %time%"

@@ -1,0 +1,1 @@
+echo "JUnit of the project : %date% : %time%"
